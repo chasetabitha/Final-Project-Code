@@ -1,0 +1,43 @@
+#logo{
+  height: auto;
+}
+
+
+.titles{
+  text-align: center;
+}
+
+.label{
+  width: 100px;
+  text-align: right;
+}
+
+#choices{
+  margin: auto;
+}
+
+.carousel{
+  margin: auto;
+  width: 300px;;
+  height: 300px;
+}
+
+.col{
+  text-align: center;
+}
+
+#librarySelect{
+  width: 25%;
+  display: block;
+  float: left;
+}
+
+#gifGrid{
+  float: right;
+  width: 60%;
+}
+
+.card{
+  margin: auto;
+  width: 200%;
+}
